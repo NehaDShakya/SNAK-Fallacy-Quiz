@@ -21,9 +21,9 @@ This mcq quiz was made for the Project class for my first year of Bachelors. We 
 
 ## Author Info
 
-- Neha Devi Shakya - Facebook - [neha.d.shakya] (https://www.facebook.com/neha.d.shakya/)
-- Khushi Chitra Uday - Facebook - [khushi.cuday] (https://www.facebook.com/khushi.uday/)
-- Sarvesh Meenowa
-- Anastasiia Chauzova
+- Neha Devi Shakya - Facebook - [neha.d.shakya](https://www.facebook.com/neha.d.shakya/)
+- Khushi Chitra Uday - Facebook - [khushi.cuday](https://www.facebook.com/khushi.uday/)
+- Sarvesh Meenowa - Github - [Sarveshmeenwa](https://github.com/Sarveshmeenwa)
+- Anastasia Chauzova
 
 [Back To The Top](#SNAK-Fallacy-Quiz)
